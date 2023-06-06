@@ -1,0 +1,48 @@
+.login-page {
+  width: 360px;
+  padding: 7% 0 0;
+}
+
+.form {
+  position: relative;
+  z-index: 1;
+  background: #ffffff;
+  max-width: 360px;
+  margin: 10 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.form > img {
+  width: 100%;
+}
+
+.form-item {
+  display: block;
+}
+
+.form-item > h3 {
+  display: inline;
+}
+
+.form-item > p {
+  display: inline;
+}
+
+.profile-update {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.profile-update > button {
+  margin-left: 5px;
+}
+
+.list-group{
+	    width: 500px;
+}
+
+.button-con{
+	margin-top:5px
+}
